@@ -41,7 +41,9 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 
 ## ¡Mantente Conectado!
 
-* **Síguenos en redes sociales:** [https://twitter.com/githubcommunity](https://twitter.com/githubcommunity)
+* **Síguenos en redes sociales:**
+  - [https://instagram.com/githubcdmx](https://instagram.com/githubcdmx)
+  - [https://twitter.com/githubcommunity](https://twitter.com/githubcommunity)
 * **Únete a nuestras discusiones comunitarias:** [https://github.com/gittogethers/cdmx/discussions/](https://github.com/gittogethers/cdmx/discussions/)
 
 ¡Unamos fuerzas para construir una comunidad de código abierto más sólida en Ciudad de México!
