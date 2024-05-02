@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-05-17 | [Evento presencial - Platzi]() | [Pending](https://www.meetup.com/github-cdmx/) | 
+| 2024-05-17 | GitHub OpenSource CDMX & Fedora México | [Enlace a Meetup](https://www.meetup.com/github-cdmx/events/300607850/) | 
 | 2024-06-28 | [Pending]() | [Pending](https://www.meetup.com/github-cdmx/) | 
 | 2024-07-26 | [Pending]() | [Pending](https://www.meetup.com/github-cdmx/) | 
 | 2024-08-30 | [Pending]() | [Pending](https://www.meetup.com/github-cdmx/) | 
