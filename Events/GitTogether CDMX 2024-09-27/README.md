@@ -1,4 +1,4 @@
-![image](../GitTogether%20CDMX%202024-08-23/assets/General.jpg)
+![image](../GitTogether%20CDMX%202024-09-27/assets/General240927.jpg)
 
 Find all pictures here: [Folder](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/EmKRgS4WmbVNn-dWsScKrYQBsvOutoakPW4ECRzwvu1y1g?e=adKxAY)
 
