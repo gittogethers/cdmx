@@ -6,4 +6,4 @@ Esta sección estará dedicada a mostrar las actividades que se realizarán al f
 
 | Actividad | Instrucciones |
 |-----------|---------------|
-| Octo-improvisation | [Documento](./OctoImprovisation/)|
+| Octo-improvisation | [Documento](./OctoImprovisation/README.md) |
