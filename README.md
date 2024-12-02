@@ -6,7 +6,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-09-27 | GitHub GitTogether CDMX - AI en programacion | [Enlace a Meetup](https://www.meetup.com/github-cdmx/events/303382640/) | 
+| 2025-0X-XX | GitHub GitTogether CDMX - XXXXXX | [Próximamente](https://www.meetup.com/github-cdmx) | 
 
 ## Past Events 
 
@@ -17,6 +17,7 @@
 | 2024-04-27 | [Villahermosa & CDMX](https://www.meetup.com/github-cdmx/events/299874636/) | [Enlace a la grabacion](https://www.twitch.tv/videos/2103498894) | 
 | 2024-05-17 | [GitHub OpenSource CDMX & Fedora México](https://www.meetup.com/github-cdmx/events/300607850/) | [Enlace a las fotos](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/EvUTPvLHN3VBhReq1RsUcrwBRk5Cb9MU2qH3eegTuKRKQA?e=auSbaD) | 
 | 2024-08-23 | [GitHub OpenSource CDMX & Notion CL](https://www.meetup.com/github-cdmx/events/302682301/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=JHvj4wMvq_0) | 
+| 2024-09-27 | [GitHub GitTogether CDMX - AI en programacion](https://www.meetup.com/github-cdmx/events/303382640/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=p1Ld1u7Oahw)
 
 ## Cómo Participar
 
