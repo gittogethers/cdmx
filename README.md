@@ -21,15 +21,17 @@
 
 ## Cómo Participar
 
+**¿Quieres asistir?**
+
+[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/github-cdmx)
+
+1. Explora los próximos [eventos](https://www.meetup.com/github-cdmx/).
+2. Regístrate a través de los enlaces de registro proporcionados.
+
 **¿Quieres hablar en un evento?**
 
 1. Envia tu propuesta a nuestra [Convocatoria de Ponentes](https://docs.google.com/forms/d/e/1FAIpQLSeb8X6mUgr5-OYeDfdMkVFzGhfP4SGZEPaah2hsOrN77lHrSQ/viewform).
 2. Sigue las instrucciones para enviar tu propuesta de charla.
-
-**¿Quieres asistir?**
-
-1. Explora los próximos [eventos](https://www.meetup.com/github-cdmx/).
-2. Regístrate a través de los enlaces de registro proporcionados.
 
 **¿Tienes comentarios, quieres sugerir un tema o contribuir de otras formas?**
 
