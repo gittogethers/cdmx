@@ -1,5 +1,7 @@
 # GitTogether CDMX 🇲🇽 🚀
 
+![GitTogether CDMX Landscape](./assets/gittogether-cdmx_landscape.jpeg)
+
 Únete a nosotros en **GitTogether CDMX**: el encuentro definitivo para desarrolladores en y alrededor de Ciudad de México, México. Impulsado por GitHub y liderado por apasionados Líderes de la Comunidad de GitHub, nuestros eventos cubren diversos temas como IA, Código Abierto, Seguridad y más. Participa en discusiones, talleres y oportunidades de networking con colegas afines, sin importar tu nivel de habilidad. Únete a esta iniciativa comunitaria, da forma al futuro del software y conecta con las mentes más brillantes de la tecnología en México.
 
 ## Upcoming Events ✨
