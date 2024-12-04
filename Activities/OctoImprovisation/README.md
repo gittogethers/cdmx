@@ -1,6 +1,6 @@
 # Octo-Improvisation
 <div style="text-align:center">
-    <img src="./assets/octo-impro-landscape.png" height=300px alt="Portada">
+    <img src="./assets/octo-impro-landscape.png" height=400px alt="Portada">
 </div>
 
 La actividad consiste en que las y los participantes, en equipos, puedan desarrollar una historia ficticia en donde cada oración debe de iniciar con la letra del alfabeto asignada.
@@ -36,7 +36,7 @@ _Para el correcto funcionamiento de la actividad, se deben seguir las siguientes
 
 **FALTAS**
 
-[!IMPORTANT]  
+> [!IMPORTANT]  
 > Será considerado falta, si los participantes: La palabra no comienza con la letra seleccionada, usa palabras ofensivas o despectivas, no tiene una palabra y prefiere saltar a la siguiente letra.
 
 4. En caso de que el participante cometa una falta, se le restará puntos al equipo con base en la [rúbrica](./README.md#rúbrica), ó se descalificará al participante y/o al equipo.
