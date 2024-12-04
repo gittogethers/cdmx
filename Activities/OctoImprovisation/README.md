@@ -1,4 +1,5 @@
 # Octo-Improvisation
+
 <div style="text-align:center">
     <img src="./assets/octo-impro-landscape.png" height=400px alt="Portada">
 </div>
@@ -16,7 +17,7 @@ La actividad esta diseñada para **9** participantes. De los cuales recomendamos
 
 _Se detallarán los pasos a seguir_
 
-1. Se dividirán en 3 equipos de 3 personas cada uno. Una vez formado los equipos, los participantes deberán crear un nombre a su respectivo equipo.
+1. Una vez formado los equipos, los participantes deberán crear un nombre a su respectivo equipo.
 2. El moderador definirá el orden de los equipos para participar. Tambien podrá elegir en que orden pasarán los participantes de cada equipo.
 3. Tendrán en la pantalla un abecedario en el cual el moderador seleccionará una letra. Un participante del equipo deberá crear una oración en la cual la primera palabra comience con la misma letra que el moderador seleccionó.
 4. Cuando el participante termine su oración, de inmediato el siguiente participante deberá continuar con otra oración que tenga una relación con la oración del participante anterior, pero comenzando con una nueva letra asignada por el moderador. 
@@ -60,37 +61,13 @@ _Aquí se encontrará la ponderación en la que serán evaluados los participant
 ### Dificultad
 ---
 
-- **FÁCIL**:
-
-|     Indicador     | Valoración |
-|-------------------|------------|
-| Orden letras      | **Ordenado Ascendente** |
-| Oración correcta  |     10     |
-| Falta             |    -1      |
-| Máximo de faltas  |     3      |
-| Tiempo            |    60 s    |
----
-
-- **NORMAL**:
-
-|     Indicador     | Valoración |
-|-------------------|------------|
-| Orden letras      | **Ordenado Ascendente o Descendente** |
-| Oración correcta  |     10     |
-| Falta             |    -5      |
-| Máximo de faltas  |     3      |
-| Tiempo            |    30 s    |
----
-
-- **DIFÍCIL**:
-
-|     Indicador     | Valoración |
-|-------------------|------------|
-| Orden letras      | **Orden Aleatorio** |
-| Oración correcta  |     10     |
-| Falta             |    Eliminación     |
-| Máximo de faltas  |     0      |
-| Tiempo            |    15 s    |
+|     Indicador     |    Fácil   |    Normal  |  Difícil |
+|-------------------|------------|------------|----------|
+| Orden letras      | **Descendente** | **Ascendente o Descendente** | **Aleatorio** |
+| Oración correcta  |     10     |     10     |     10      |
+| Falta             |     -1     |     -5     | Eliminación |
+| Máximo de faltas  |      3     |      3     |      0      |
+| Tiempo            |    60 s    |    30 s    |     15 s    |
 
 
 ## Equipo Interno
@@ -116,4 +93,3 @@ _Aquí se encontrará la ponderación en la que serán evaluados los participant
 ## Contribuidores
 
 - [@ManuOSMx](https://github.com/manuosmx)
-- [@user](https://github.com/)
