@@ -8,7 +8,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2025-0X-XX | GitHub GitTogether CDMX - XXXXXX | [Próximamente](https://www.meetup.com/github-cdmx) | 
+| 2025-03-07 | GitHub GitTogether CDMX - 2° Aniversario | [Registro](https://www.meetup.com/gittogether-cdmx/events/305793648/) | 
 
 ## Past Events 
 
@@ -25,9 +25,9 @@
 
 **¿Quieres asistir?**
 
-[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/github-cdmx)
+[![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-cdmx)
 
-1. Explora los próximos [eventos](https://www.meetup.com/github-cdmx/).
+1. Explora los próximos [eventos](https://www.meetup.com/gittogether-cdmx/).
 2. Regístrate a través de los enlaces de registro proporcionados.
 
 **¿Quieres hablar en un evento?**
@@ -47,7 +47,6 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
 ## ¡Mantente Conectado!
 
 * **Síguenos en redes sociales:**
-  - [https://instagram.com/githubcdmx](https://instagram.com/githubcdmx)
   - [https://twitter.com/githubcommunity](https://twitter.com/githubcommunity)
 * **Únete a nuestras discusiones comunitarias:** [https://github.com/gittogethers/cdmx/discussions/](https://github.com/gittogethers/cdmx/discussions/)
 
