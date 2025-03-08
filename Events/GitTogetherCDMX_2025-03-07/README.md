@@ -1,4 +1,4 @@
-![image](./assets/photos/GitTogetherCDMX_Official_250307.jpeg)
+![image](./assets/GitTogetherCDMX_Official_250307.jpeg)
 
 Find all pictures here: [Folder](./assets/)
 
