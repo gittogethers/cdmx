@@ -8,18 +8,32 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2025-03-07 | GitHub GitTogether CDMX - 2° Aniversario | [Registro](https://www.meetup.com/gittogether-cdmx/events/305793648/) | 
+| 2025-04-XX | Season of AI | [Próximamente](https://www.meetup.com/gittogether-cdmx/) | 
 
 ## Past Events 
 
+### 2025
+
 | Date | Title | Resources |
 |---|---|---|
-| 2024-01-19 | [Bienvenida 2024](https://www.meetup.com/gittogether-latam/events/298174551) | [Enlace a la grabacion](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/EgKtoynLqW5LrIwmDBt9a3kBQWOCrDx9ulHNkHdKzNFN-g) |
-| 2024-03-15 | [Mujeres que inspiran](https://www.meetup.com/gittogether-latam/events/299308299/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=VrxmfQDVV0M) |
-| 2024-04-27 | [Villahermosa & CDMX](https://www.meetup.com/github-cdmx/events/299874636/) | [Enlace a la grabacion](https://www.twitch.tv/videos/2103498894) | 
-| 2024-05-17 | [GitHub OpenSource CDMX & Fedora México](https://www.meetup.com/github-cdmx/events/300607850/) | [Enlace a las fotos](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/EvUTPvLHN3VBhReq1RsUcrwBRk5Cb9MU2qH3eegTuKRKQA?e=auSbaD) | 
-| 2024-08-23 | [GitHub OpenSource CDMX & Notion CL](https://www.meetup.com/github-cdmx/events/302682301/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=JHvj4wMvq_0) | 
+| 2025-03-07 | [GitHub GitTogether CDMX - 2° Aniversario](https://www.meetup.com/gittogether-cdmx/events/305793648) | [Enlace a fotos](./Events/GitTogetherCDMX_2025-03-07/README.md) | 
+
+---
+
+### 2024
+
+| Date | Title | Resources |
+|---|---|---|
 | 2024-09-27 | [GitHub GitTogether CDMX - AI en programacion](https://www.meetup.com/github-cdmx/events/303382640/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=p1Ld1u7Oahw) |
+| 2024-08-23 | [GitHub OpenSource CDMX & Notion CL](https://www.meetup.com/github-cdmx/events/302682301/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=JHvj4wMvq_0) | 
+| 2024-05-17 | [GitHub OpenSource CDMX & Fedora México](https://www.meetup.com/github-cdmx/events/300607850/) | [Enlace a las fotos](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/EvUTPvLHN3VBhReq1RsUcrwBRk5Cb9MU2qH3eegTuKRKQA?e=auSbaD) | 
+| 2024-04-27 | [Villahermosa & CDMX](https://www.meetup.com/github-cdmx/events/299874636/) | [Enlace a la grabacion](https://www.twitch.tv/videos/2103498894) | 
+| 2024-03-15 | [Mujeres que inspiran](https://www.meetup.com/gittogether-latam/events/299308299/) | [Enlace a la grabacion](https://www.youtube.com/watch?v=VrxmfQDVV0M) |
+| 2024-01-19 | [Bienvenida 2024](https://www.meetup.com/gittogether-latam/events/298174551) | [Enlace a la grabacion](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/EgKtoynLqW5LrIwmDBt9a3kBQWOCrDx9ulHNkHdKzNFN-g) |
+
+
+
+
 
 ## Cómo Participar
 
