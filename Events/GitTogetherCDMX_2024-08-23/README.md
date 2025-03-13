@@ -1,6 +1,8 @@
+# GitTogether CDMX
+
 ![image](./assets/General.jpg)
 
-Find all pictures here: [Folder](https://stdntpartners-my.sharepoint.com/:f:/g/personal/manuel_ortiz_studentambassadors_com/Em5P2JtZn_tDlwCTqNkPfFwBW7Xv4tJUaqe9xuLjR4wx_g?e=giGNHJ)
+Find all pictures here: [Folder](./assets/)
 
 -----------
 

@@ -1,3 +1,5 @@
+# GitTogether CDMX
+
 ![image](./assets/GitTogetherCDMX_Official_250307.jpeg)
 
 Find all pictures here: [Folder](./assets/)
@@ -21,4 +23,4 @@ Find all pictures here: [Folder](./assets/)
 
 **Time**: 6 PM to 9 PM 
 
-**Venue**: [Venue](https://www.meetup.com/gittogether-cdmx/events/305793648/), Paseo de la Reforma 296 Piso 32, Col Juárez, Alcaldía Cuauhtémoc, 06600 CDMX - Oficina Wizeline Piso 32 · Ciudad de México
+**Venue**: [Wizeline](https://www.meetup.com/gittogether-cdmx/events/305793648/), Paseo de la Reforma 296 Piso 32, Col Juárez, Alcaldía Cuauhtémoc, 06600 CDMX - Oficina Wizeline Piso 32 · Ciudad de México
