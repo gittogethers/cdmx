@@ -8,7 +8,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2025-04-XX | Season of AI | [Próximamente](https://www.meetup.com/gittogether-cdmx/) | 
+| 2025-XX-XX | GitTogether CDMX | [Próximamente](https://www.meetup.com/gittogether-cdmx/) | 
 
 ## Past Events 
 
@@ -16,6 +16,7 @@
 
 | Date | Title | Resources |
 |---|---|---|
+| 2025-05-02 | [GitTogether CDMX - Season of AI](https://www.meetup.com/gittogether-cdmx/events/306948674) | [Enlace a fotos (Próximamente)](https://www.meetup.com/gittogether-cdmx/) | 
 | 2025-03-07 | [GitHub GitTogether CDMX - 2° Aniversario](https://www.meetup.com/gittogether-cdmx/events/305793648) | [Enlace a fotos](./Events/GitTogetherCDMX_2025-03-07/README.md) | 
 
 ---
