@@ -6,15 +6,16 @@
         style="display: block; margin: 0 auto" />
 -->
 
-La actividad consiste en fomentar que las y los participantes fortalezcan sus conocimientos de la temática de la sesión con una dinámica divertida encontrando patrones.
+La actividad consiste en fomentar que las y los participantes fortalezcan sus conocimientos sobre la temática de la sesión con una dinámica divertida encontrando patrones.
 
 ## Participantes
 
-La actividad esta diseñada para el total de la audiencia o de manera alternativa, conformar equipos.
+La actividad esta diseñada para 6 participantes en formato presencial.
 
 Para los equipos:
 
 - Equipos: _**2**_
+- Nombre de Equipo: **_Deben seleccionar un nombre para distinguir a su equipo_**
 - Participantes por equipo: _**3**_
 
 ## Instrucciones generales
@@ -23,8 +24,9 @@ _Se detallarán los pasos a seguir:_
 
 1. Se conformarán dos equipos de tres participantes cada uno, (misma cantidad de hombres y mujeres para la dinámica)
 2. Se plantearán una serie de 10 preguntas sobre la temática del evento y cada pregunta tendrá respuestas de opción múltiple.
-4. Cada respuesta se representará con un emoji, pero **sólo uno** es el correcto para responder a la pregunta.
-5. Las respuestas correctas del total de preguntas formarán un patrón de emojis ÚNICO. _eje_ [❤️🦖👀🐸🌲]
+4. Cada respuesta se representará con un emoji:
+ _Ej._(Pregunta 1 -> Resp. 1: 🐸, Resp. 2: 🦖) pero **sólo uno** es el correcto para responder a la pregunta.
+5. Las respuestas correctas del total de preguntas formarán un patrón de emojis ÚNICO. _Ej._ de 5 preguntas, habrá un único patrón [❤️🦖👀🐸🌲] de todas las respuestas correctas.
 6. **Registro de la respuesta**: Se generará un template en Discussions para que los equipos participantes coloquen sus respuestas de manera adecuada según el formato establecido (lista o tabla) en los comentarios. Sólo se permite un comentario por equipo.
 7. **Respuestas correctas**: Deben trabajar en equipo para elegir cada respuesta que consideren correcta en el formato indicado. En cada respuesta, los participantes van a crear su propio patrón.
 - **_IMPORTANTE: NO DEBEN ENVIAR SU RESPUESTA hasta que se hayan mostrado todas las preguntas._**
@@ -68,9 +70,9 @@ _Aquí se encontrará la ponderación en la que serán evaluados los equipos por
 
 |     Rol    | Nombre |       Actividad        |
 |------------|--------|------------------------|
-| Juez       | Ale    | Dirigir la actividad   |
+| Responsable | Ale    | Dirigir la actividad   |
 | Moderador  | Saúl   | Evaluar las respuestas |
-| Moderador  | Lalo   | Evaluar las respuestas |
+| Juez  | Lalo   | Evaluar las respuestas |
 
 ## Recursos
 
