@@ -8,7 +8,7 @@
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2025-XX-XX | GitTogether CDMX | [Próximamente](https://www.meetup.com/gittogether-cdmx/) | 
+| 2025-08-29 | GitTogether CDMX - Agentes de IA | [Evento](https://www.meetup.com/es-ES/gittogether-cdmx/events/310420197/) | 
 
 ## Past Events 
 
